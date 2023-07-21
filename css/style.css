@@ -39,7 +39,7 @@ body {
     font-size: 16px;
     color: #000;
     font-family: Montserrat;
-    background-image: url(/max/max.png);
+    background-image: url(../max/max.png);
     background-size: 100vh;
 }
 
